@@ -1,0 +1,25 @@
+body {
+    background: #dcdcdc;
+}
+
+.head-font {
+    font-size: 40px;
+    color: #88888a;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.btn-link {
+    color: #f4a460;
+}
+
+.btn-link:hover {
+    color: #c0c0c0;
+}
+
+.bd-example {
+    position: relative;
+    padding: 1rem;
+    margin: -1rem -15px 0;
+    background: #fefcfe;
+}
